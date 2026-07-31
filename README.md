@@ -1,15 +1,14 @@
 <div align="center">
 
-# sa3douk
+# Sa3douk
 
-**Computer Science student @ October University for Modern Sciences and Arts (MSA)**
+**Computer Science student @ MSA University**
 Building things at the intersection of software development and AI.
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sa3douk)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sa3douk)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sa3douk)
-
-</div>
+[![Gmail](https://img.shields.io/badge/-%20Sa3douk%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sa3douk@gmail.com)
 
 ---
 
@@ -29,7 +28,7 @@ Building things at the intersection of software development and AI.
 
 </div>
 
-> 🔤 Currently learning: **HTML**
+>  Currently learning: **HTML**
 
 <div align="center">
 
@@ -49,14 +48,12 @@ Building things at the intersection of software development and AI.
 
 <div align="center">
 
-<svg width="560" height="40" viewBox="0 0 560 40" xmlns="http://www.w3.org/2000/svg">
-  <rect width="560" height="40" rx="6" fill="#000000"/>
-  <text x="280" y="26" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" letter-spacing="0.5" fill="#39d353" text-anchor="middle">
-    "PROGRAMS MUST BE WRITTEN FOR PEOPLE TO READ."
-  </text>
-</svg>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROGRAMS_MUST_BE_WRITTEN_FOR_PEOPLE_TO_READ-39FF14?style=for-the-badge&labelColor=000000&color=000000" />
+</p>
 
 </div>
+
 ---
 
 <div align="center">
