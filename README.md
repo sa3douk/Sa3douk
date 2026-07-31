@@ -28,7 +28,7 @@ Building things at the intersection of software development and AI.
 
 </div>
 
->  Currently learning: **HTML**
+  Currently learning: **HTML**
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Building things at the intersection of software development and AI.
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROGRAMS_MUST_BE_WRITTEN_FOR_PEOPLE_TO_READ-39FF14?style=for-the-badge&labelColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/PROGRAMS_MUST_BE_WRITTEN_FOR_PEOPLE_TO_READ-39FF14?style=for-the-badge&labelColor=39FF14&color=000000" />
 </p>
 
 </div>
