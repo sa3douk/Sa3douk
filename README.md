@@ -12,13 +12,15 @@ Building things at the intersection of software development and AI.
 
 ---
 
-### About
+### ABOUT
 
 🎓 Studying Computer Science at **MSA University**, Egypt
+
 🧠 Focused on **AI** and building practical software projects
+
 🌱 Currently exploring how AI can be applied in real-world development
 
-### Tech & Tools
+### TECH & TOOLS
 
 <div align="center">
 
@@ -36,7 +38,7 @@ Building things at the intersection of software development and AI.
 
 </div>
 
-### GitHub Stats
+### GITHUB STATS
 
 <div align="center">
 
