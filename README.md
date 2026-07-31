@@ -1,6 +1,6 @@
 <div align="center">
 
-# سعدوک · sa3douk
+# sa3douk
 
 **Computer Science student @ October University for Modern Sciences and Arts (MSA)**
 Building things at the intersection of software development and AI.
@@ -25,7 +25,6 @@ Building things at the intersection of software development and AI.
 
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
@@ -34,7 +33,7 @@ Building things at the intersection of software development and AI.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,git,github&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=cpp,html,github&theme=dark" alt="Skills" />
 
 </div>
 
@@ -42,16 +41,22 @@ Building things at the intersection of software development and AI.
 
 <div align="center">
 
-![sa3douk's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa3douk&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sa3douk&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sa3douk&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
-<sub>If a card above shows as broken, it's the public stats server being overloaded — just refresh the page after a minute, GitHub caches these once they load.</sub>
+<div align="center">
 
+<svg width="560" height="40" viewBox="0 0 560 40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="40" rx="6" fill="#000000"/>
+  <text x="280" y="26" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" letter-spacing="0.5" fill="#39d353" text-anchor="middle">
+    "PROGRAMS MUST BE WRITTEN FOR PEOPLE TO READ."
+  </text>
+</svg>
+
+</div>
 ---
 
 <div align="center">
